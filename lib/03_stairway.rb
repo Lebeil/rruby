@@ -37,3 +37,5 @@ def play
     puts "Bienvenue dans le game!"
     show_state(1)
 end
+
+#https://www.thehackingproject.org/dashboard/courses/1/weeks/1/days/4?locale=fr
